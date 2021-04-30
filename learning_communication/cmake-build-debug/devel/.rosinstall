@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/k/catkin_ws2/src/learning_communication/cmake-build-debug/devel/setup.sh
